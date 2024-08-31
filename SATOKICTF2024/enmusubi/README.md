@@ -74,7 +74,7 @@ if verify(b'flag', r, s):
 ### ステップ 1: s=1による計算の簡略化
 
 まず、計算を簡略化するために、$s = 1$ で解けると仮定して解きます。$w=1$となり、式は次のように単純化されます：
-
+When $a \ne 0$, there are two solutions
 ```math
 r \equiv g^z \cdot y^r \mod p
 ```
