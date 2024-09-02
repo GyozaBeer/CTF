@@ -1,1 +1,1 @@
-CTFのsolvとwriteupを置きます
+CTFのsolveとwriteupを置きます
